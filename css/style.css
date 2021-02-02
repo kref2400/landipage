@@ -33,7 +33,7 @@ header div.hero {
       color:white;
   }
 .ord{
-    color: whites;
+    color: white;
 }
 
   .men{
@@ -41,6 +41,10 @@ header div.hero {
         background-color: transparent;
         color:  white;
         border-color:  #EFB810;
+    
+  }
+  .h2tl{
+    color:white;
     
   }
   
